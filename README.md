@@ -5,21 +5,16 @@
     <meta name="viewport" content="width=device-width">
     <title>repl.it</title>
   </head>
-  <body onload="displayInfo()">    
+  <body>    
 
-<script>
 
-function displayInfo(){
+<div id ="info"> 
+   <h2> Welcome to Bayside Highschool Robotics Code for Tower Takeover </h2> 
+   <hr> 
+   <br> 
+  <img src = "https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/t/tt-fullfield-gamekit.jpg" height = 800 width = 800 > 
 
-  var o = document.getElementById("output");
-  var build = "";
-
-  build += ` <div id ="info"> `
-  build += ` <h2> Welcome to Bayside Highschool Robotics Code for Tower Takeover </h2> `
-  build += ` <hr> `
-  build += ` <br> `
-  build += ` <img src = "https://www.vexrobotics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/t/tt-fullfield-gamekit.jpg" height = 800 width = 800 > `
-  build += ` <h3> 
+<h3> 
   
             There are sixty-six (66) Cubes; twenty-two (22) of
             each color (orange, green, and purple). There are
@@ -49,13 +44,8 @@ function displayInfo(){
 
             </h3>`
 
-  build += ` </div> `
-
-o.innerHTML = build;
-}
-
-</script>
-
+ </div> 
+ 
 <style>
 
 #info {
