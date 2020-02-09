@@ -41,22 +41,4 @@
  </h3>
 
  </div> 
- 
-<style>
 
-#info {
-
-  border-radius: 20px 20px 20px 20px;
-  color: brown;
-  margin: 10px;
-  text-align: center;
-
-}
-
-
-</style>
-
-    <div id = "output"> </div>
-    
-  </body>
-</html>
