@@ -24,8 +24,6 @@
             Goal Zones (two per Alliance), in the corners of
             the field.
 
-            <hr>
-
             Each Cube scored in a Goal Zone is worth a base of
             one (1) point. For each Cube of a given color that is
             Placed into a Tower, the point value for Cubes of
@@ -34,15 +32,13 @@
             Placed in Towers at the end of the Match, then all
             green Cubes Scored in Goal Zones are worth four
             (4) points.
-
-            <hr>
-
+            
             The Alliance that scores more points in Autonomous
             Period receives bonus points, as well as receiving 2
             purple Cubes, which may be introduced at any time
             during the Driver Control period 
 
-            </h3>`
+ </h3>
 
  </div> 
  
